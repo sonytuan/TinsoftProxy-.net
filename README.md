@@ -1,2 +1,2 @@
 # TinsoftProxy
-C# 
+C# Read how to use.md
