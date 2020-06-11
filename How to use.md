@@ -2,7 +2,7 @@
 -Use this code:<br/>
 ///////////////<br/>
 <code>
-	TinsoftProxy myProxy = new TinsoftProxy("");
+	TinsoftProxy myProxy;
 
 	//Main
 
