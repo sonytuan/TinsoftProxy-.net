@@ -14,7 +14,7 @@
 	int port=0;
 	while(true){
 	    if(myProxy.changeProxy()){
-	    proxy = myProxy.proxy;
+	                proxy = myProxy.proxy;
 			ip=myProxy.ip;
 			port= myProxy.port;
 			break;
