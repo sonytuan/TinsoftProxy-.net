@@ -10,7 +10,7 @@
 		myProxy = new TinsoftProxy("");
 	}
 	myProxy.api_key=""; //input api key
-	myProxy.location=""; //input location (0 for random)
+	myProxy.location=0; //input location (0 for random)
 	string proxy="";
 	string ip="";
 	int port=0;
