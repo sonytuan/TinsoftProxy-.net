@@ -1,6 +1,6 @@
--Install package Newtonsoft.Json.Linq
--Use this code:
-///////////////
+-Install package Newtonsoft.Json.Linq<br/>
+-Use this code:<br/>
+///////////////<br/>
 <code>
 	TinsoftProxy myProxy = new TinsoftProxy("");
 
