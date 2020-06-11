@@ -25,6 +25,6 @@
 			string errorCode = myProxy.errorCode;
 			Console.WriteLine(errorCode);
 		}
-		Thread.sleep(10000);
+		Thread.Sleep(10000);
 	}
 </code>
